@@ -15,6 +15,7 @@ Getting the amount of retirement-ready employees, we can get the next conclusion
 
 Getting the amount of employees able to enter in the mentoring program we have the next callouts:
  - There is a total of 1,549 employees ready to enter to the mentoring
+
 ![image](https://user-images.githubusercontent.com/96214489/154858681-1cd800c7-452c-4a88-be8d-5d3aa35f4191.png)
  - Most of them are in the departments that has the most retirement employees
 
